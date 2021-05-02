@@ -9,3 +9,7 @@ UFO sightings can happen anywhere across the globe, and Dana’s web page has de
 Filtering the table by the first item in our filter table will allow the user to select any date for sightings that may have occured.
 ![fig1](https://user-images.githubusercontent.com/78861458/116831857-db195980-ab7f-11eb-9995-b247be053d04.png)
 
+### 2 Enter city
+Filtering based on which city the occurrence of the UFO sightings 
+![fig 2](https://user-images.githubusercontent.com/78861458/116831956-7f9b9b80-ab80-11eb-9a55-bf4cf7fb562d.png)
+
