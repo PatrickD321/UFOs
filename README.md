@@ -6,4 +6,6 @@ The data.js, the JavaScript array table that Dana has, is a dynamic table that c
 ## Results
 UFO sightings can happen anywhere across the globe, and Dana’s web page has develope five different criteria for selection:
 ### 1 The date
-###1. The date
+Filtering the table by the first item in our filter table will allow the user to select any date for sightings that may have occured.
+![fig1](https://user-images.githubusercontent.com/78861458/116831857-db195980-ab7f-11eb-9995-b247be053d04.png)
+
