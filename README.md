@@ -17,4 +17,9 @@ Filtering based on which city the occurrence of the UFO sightings, the city colu
 For the United States we can choose or filter for that state, the state column shows that for New York "ny"
 ![fig 3](https://user-images.githubusercontent.com/78861458/116832143-968ebd80-ab81-11eb-9862-ac0c88a093c1.png)
 
+### 4 Enter country/shape 
+Similarly for country/shape we can filter for each criteria, not only we filter on a single criteria multiple or more that one item can be entered to filter for specfic data or data set.
+![fig 4](https://user-images.githubusercontent.com/78861458/116832360-e15d0500-ab82-11eb-90dd-08d61f078b8a.png)
+
+
 
