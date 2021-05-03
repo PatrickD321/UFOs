@@ -13,3 +13,8 @@ Filtering the table by the first item in our filter table will allow the user to
 Filtering based on which city the occurrence of the UFO sightings, the city column shows all the results for "el cajon" 
 ![fig 2](https://user-images.githubusercontent.com/78861458/116831956-7f9b9b80-ab80-11eb-9a55-bf4cf7fb562d.png)
 
+### 3 Enter State
+For the United States we can choose or filter for that state, the state column shows that for New York "ny"
+![fig 3](https://user-images.githubusercontent.com/78861458/116832143-968ebd80-ab81-11eb-9862-ac0c88a093c1.png)
+
+
