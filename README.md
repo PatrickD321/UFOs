@@ -21,5 +21,8 @@ For the United States we can choose or filter for that state, the state column s
 Similarly for country/shape we can filter for each criteria, not only we filter on a single criteria multiple or more that one item can be entered to filter for specfic data or data set.
 ![fig 4](https://user-images.githubusercontent.com/78861458/116832360-e15d0500-ab82-11eb-90dd-08d61f078b8a.png)
 
+## Summary
+Most web pages or sites use a drop down table that provides a list of options that user can select from. This design does not use this feature, the drop down list provides a clear selection of filters, which gives a user much more understanding of what the filters off without have to explain how the page or web site works. One recomendation for further development is to have a drop table for the secection of filters and the other is to employ the use of other web sites in addition to Dana's own database that is stored on her server, data.js, where user can have a much wider search area. 
+
 
 
